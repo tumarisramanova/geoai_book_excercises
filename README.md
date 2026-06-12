@@ -1,0 +1,1 @@
+# geoai_book_excercises
